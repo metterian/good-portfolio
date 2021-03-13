@@ -1,6 +1,6 @@
 # 포트폴리오
 
-### 프로젝트 사례
+## 프로젝트 사례
 
 - 전희원님의 [KoSpacing : 한글 자동 띄어쓰기 패키지 공개](http://freesearch.pe.kr/archives/4759)
 - 최규민님의 [브런치 작가 추천과 Word2Vec](https://brunch.co.kr/@goodvc78/7)
@@ -15,9 +15,7 @@
 - 리드미에서 글쓰기 | [noffle/art-of-readme: Things I've learned about writing good READMEs.](https://github.com/noffle/art-of-readme#readme)
 - FE News 네이버 | [naver/fe-news: FE 기술 소식 큐레이션 뉴스레터](https://github.com/naver/fe-news)
 
-### README 템플릿
-
----
+## README 템플릿
 
 - Standard Readme | [README 정석](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
 - Awesome README | [matiassingers/awesome-readme: A curated list of awesome READMEs](https://github.com/matiassingers/awesome-readme)
@@ -25,9 +23,7 @@
 - GIF 리드미 템플릿 예시 | [nhn/tui.editor: 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.](https://github.com/nhn/tui.editor#readme)
 - 머신러닝 시각화 예시 | [anfederico/clairvoyant: Software designed to identify and monitor social/historical cues for short term stock movement](https://github.com/anfederico/Clairvoyant#readme)
 
-### **GIF 제작**
-
----
+## **GIF 제작**
 
 - [Gifox](https://gifox.io/) - **$4.99** - 심플한 UI, 핫 키 지원, 다양한 기능 지원
 - [Giphy Capture](https://giphy.com/apps/giphycapture) - **FREE** - 쉬운 giphy.com 업로드. 약간 불편한 UX.
@@ -38,21 +34,19 @@
 - [ttystudio](https://github.com/chjj/ttystudio#readme) - **FREE** - CLI로 작업하기 편함, GIF를 터미널로 작업은 비추
 - [Gifski](https://github.com/sindresorhus/Gifski#readme) - **FREE** - 다른 GIF 결과물 보다 색상이 선명하고 용량도 적게 제작됨
 
-### Git License
+## Git License
 
----
-
-#### 라이센스 명시
+### 라이센스 명시
 
 라이센스를 명시하지 않으면 기본 저작권법이 적요되어 타인이 저작물을 복제,배표 할 수 없음
 
-#### 사용한 오픈소스의 라이센스 의무사항 준수
+### 사용한 오픈소스의 라이센스 의무사항 준수
 
 사용한 오픈소스를 명시하고 해당 라이센스의 의무사항을 준수해야 함
 
 의무조항의 충돌로 함께 사용 할 수 없는 라이선스가 있는지도 확인(Compatibility)
 
-#### 적합한 라이선스 채택
+### 적합한 라이선스 채택
 
 사용한 오픈소스 라이선스와 호환되는 라이선스를 채택해야 한다.(GPL 사용 = GPL 배포)
 
