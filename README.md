@@ -2,8 +2,6 @@
 
 ### 프로젝트 사례
 
----
-
 - 전희원님의 [KoSpacing : 한글 자동 띄어쓰기 패키지 공개](http://freesearch.pe.kr/archives/4759)
 - 최규민님의 [브런치 작가 추천과 Word2Vec](https://brunch.co.kr/@goodvc78/7)
 - 장지수님의 [Self Attention을 사용한 네이버 영화 리뷰 테스트 결과 및 시각화](https://simonjisu.github.io/datascience/2018/04/03/nsmcbidreclstmselfattn.html)
@@ -11,9 +9,7 @@
 - [Team-Neighborhood/awesome-face-detection: Compare with various detectors - s3fd, dlib, ocv, ocv-dnn, mtcnn-pytorch, face_recognition](https://github.com/Team-Neighborhood/awesome-face-detection)
 - 사윤문고 | [포트폴리오 제출 깃허브 리드미(github readme)참고 예시](https://post.sayunbooks.com/entry/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%A0%9C%EC%B6%9C-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A6%AC%EB%93%9C%EB%AF%B8github-readme%EC%B0%B8%EA%B3%A0-%EC%98%88%EC%8B%9C)
 
-### 개발자 글쓰기
-
----
+## 개발자 글쓰기
 
 - 개발자 글쓰기 관련 PPT |[개발자를 위한 (블로그) 글쓰기](https://www.slideshare.net/zzsza/intro-102870757)
 - 리드미에서 글쓰기 | [noffle/art-of-readme: Things I've learned about writing good READMEs.](https://github.com/noffle/art-of-readme#readme)
